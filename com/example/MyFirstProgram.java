@@ -3,6 +3,7 @@ package com.example;
 public class MyFirstProgram {
 
     public static void main(String[] args) {
-        System.out.println("My First Program");
+        Program programObj = new Program();
+        programObj.method();
     }
 }
