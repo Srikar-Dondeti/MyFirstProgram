@@ -1,6 +1,6 @@
 package com.example;
 
-public class Program {
+public class TestClass {
 
     public void method(){
 
